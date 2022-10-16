@@ -1,6 +1,6 @@
 import paho.mqtt.client as mqtt 
 
-mqttBroker ="" 
+mqttBroker ="192.168.0.105" 
 
 client = mqtt.Client("OpenFire_Confidence")
 
